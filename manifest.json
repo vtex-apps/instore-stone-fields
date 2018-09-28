@@ -1,0 +1,18 @@
+{
+  "vendor": "vtex",
+  "name": "instore-stone-fields",
+  "version": "0.1.0",
+  "title": "Instore extra customer fields",
+  "description": "",
+  "defaultLocale": "pt-BR",
+  "builders": {
+    "pages": "0.x",
+    "react": "2.x"
+  },
+  "dependencies": {
+    "vtex.instore-form-fields": "0.x"
+  },
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  }
+}
