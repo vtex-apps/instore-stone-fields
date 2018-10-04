@@ -3,24 +3,24 @@
     "registration-container/index": {
       "component": "index"
     },
-    "registration-container/stonecode": {
+    "registration-container/1": {
       "component": "vtex.instore-form-fields/FormInput",
       "props": {
-        "ffor": "stonecode",
+        "ffor": "customsenha",
         "nameKey": "instore-stone-fields.stone-code"
       }
     },
     "registration-container/2": {
       "component": "vtex.instore-form-fields/FormInput",
       "props": {
-        "ffor": "mothersname",
+        "ffor": "customnomemae",
         "nameKey": "instore-stone-fields.mothers-name"
       }
     },
     "registration-container/3": {
       "component": "vtex.instore-form-fields/FormInput",
       "props": {
-        "ffor": "businessname",
+        "ffor": "nomefantasiapessoal",
         "nameKey": "instore-stone-fields.business-name"
       }
     }
