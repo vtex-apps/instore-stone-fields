@@ -20,7 +20,7 @@
     "registration-container/3": {
       "component": "vtex.instore-form-fields/FormInput",
       "props": {
-        "ffor": "nomefantasiapessoal",
+        "ffor": "fancyName",
         "nameKey": "instore-stone-fields.business-name"
       }
     }
