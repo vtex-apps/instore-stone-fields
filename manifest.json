@@ -7,7 +7,8 @@
   "defaultLocale": "pt-BR",
   "builders": {
     "pages": "0.x",
-    "react": "2.x"
+    "react": "2.x",
+    "messages": "0.x"
   },
   "dependencies": {
     "vtex.instore-form-fields": "0.x"
