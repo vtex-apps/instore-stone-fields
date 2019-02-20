@@ -11,7 +11,7 @@
     "messages": "1.x"
   },
   "dependencies": {
-    "vtex.instore-form-fields": "0.x",
+    "vtex.instore-form-fields": "1.x",
     "vtex.checkout-instore": "0.x"
   },
   "scripts": {
